@@ -1,0 +1,9 @@
+Hemos elegido Windows para el proyecto, puesto que estamos bastante familiarizados con el sistema,
+y Linux no nos ofrece ningún incentivo extra.
+
+Como sistema de control de versiones, nos hemos decantado por GitHub, por su flexibilidad y facilidad de uso,
+además de contar con integración directa con Netbeans, que es el IDE que vamos a utilizar.
+
+Nuestro proyecto consiste en un sistema gestor de un periódico, montado sobre Java y con un interfaz web (HTML).
+Consta de las entidades propias de un periodico (Fotografo, Periodista, Noticias Imprimibles, Noticias en
+Formato Web…) y con funcionalidades varias para el mostrado y gestión de los mismos.

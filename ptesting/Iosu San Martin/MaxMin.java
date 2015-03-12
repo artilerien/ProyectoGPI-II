@@ -1,6 +1,6 @@
 public class MaxMin
 {
-    int i; //variable para recorrer el array
+    int i; //variable para recorrer el arra
     int num_max; //aqui se almacena el numero maximo
     int num_min; //aqui se almacena el numero minimo
     
